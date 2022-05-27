@@ -10,7 +10,7 @@
 <img src='./public/jogodamemoria.gif'>
 
 <p align='center'>
-    <a href="" target="_blank">Clique aqui para Testar o app</a>
+    <a href="https://jogo-da-memoria-mvkpvoiy9-willianduartte.vercel.app/" target="_blank">Clique aqui para Testar o app</a>
 </p>
 
 # Tecnologias
