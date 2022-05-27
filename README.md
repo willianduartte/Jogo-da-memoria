@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# Jogo da memória
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align='center'>Um jogo da memória feito durante o curso de React.js da <a href="https://b7web.com.br/fullstack/?ref=I24108426I&gclid=CjwKCAjw7cGUBhA9EiwArBAvog9V2u1XVk1CgL7W_bHZl67ys9p6bTy_bw-kusqWhM6TWdrs7HrMuBoCVkkQAvD_BwE" target="_blank" >B7web</a> <br/> Utilizando React.js e Typescript como tecnologias principais.</h4>
 
-## Available Scripts
+<p align='center'>
+    <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-In the project directory, you can run:
+<img src='jogo da Memória.gif'>
 
-### `npm start`
+<p align='center'>
+    <a href="" target="_blank">Clique aqui para Testar o app</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Tecnologias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+As seguintes tecnologias foram usadas:
 
-### `npm test`
+- React.js
+- Javascript
+- Typescript
+- HTML5
+- CSS3 (Styled Components)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Como usar
 
-### `npm run build`
+Para clonar e rodar essa aplicação você precisa ter o [Git](https://git-scm.com/) e o [Node.js](https://nodejs.org/en/) instalado no seu computador e rodar os seguntes codigos no seu CDM (Prompt de comando)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clonar o repositorio
+$ git Clone https://github.com/willianduartte/Jogo-da-memoria
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# com o repositorio selecionado no seu CDM rode
+$ npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Rode o app
+$ npm start
+```
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito com <3 por [Willian Duarte](https://www.linkedin.com/in/willian-duarte-de-souza-4321a6230/)
