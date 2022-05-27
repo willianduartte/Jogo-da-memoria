@@ -7,7 +7,7 @@
     <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src='./jogo da Memória.gif'>
+<img src='./jogo-da-Memória.gif'>
 
 <p align='center'>
     <a href="" target="_blank">Clique aqui para Testar o app</a>
